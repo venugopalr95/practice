@@ -13,10 +13,6 @@ matlab
 lab view
 simlink
 
-lsdkfjsdlk
-dfklsdjflwcvv
-dlfjk
-dklfjeklfj
 
 third editting 
 so to see how git react and evaluate
