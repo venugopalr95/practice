@@ -15,7 +15,10 @@ simlink
 lfjksdlfjasd
 klsdjflaskfj
 sdlkfjslf
-alkdfjskldfj
+alkdfjskldfj 
+klasdjfsdl
+dkljdlkfjd
+ldkfjefdnvlk
 
 third editting 
 so to see how git react and evaluate
